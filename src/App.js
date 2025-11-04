@@ -20,6 +20,7 @@ function App() {
               <h1 className="text-4xl md:text-5xl font-bold tracking-tight">
                 SCP Refrigeration
             </h1>
+          </div>
             <p className="text-lg md:text-xl font-light mb-6 max-w-lg">
               HVAC & Commercial Cooling Experts in Sanger, TX. Keeping your business cold, comfortable, and running smoothly for over 20 years.
             </p>
