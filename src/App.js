@@ -21,7 +21,7 @@ function App() {
             </h1>
           </div>
             <p className="text-lg md:text-xl font-light mb-6 max-w-lg">
-              HVAC & Commercial Cooling Experts in Sanger, TX. Keeping your business cold, comfortable, and running smoothly for over 20 years.
+              Professional HVAC & Refrigeration Services You Can Trust. Serving Residential & Commercial Clients in Sanger, TX, and surrounding areas with Excellence.
             </p>
             <a
               href="tel:+14695997370"
@@ -44,11 +44,11 @@ function App() {
         <div className="md:w-1/2">
           <h2 className="text-3xl font-serif text-blue-900 mb-4 font-bold">About Us</h2>
           <p className="text-gray-700 text-lg mb-4">
-            SCP Refrigeration is a family-owned, full-service commercial refrigeration and HVAC company, serving Sanger, TX and the surrounding region[web:2].
+            SCP Refrigeration is a family-owned, full-service commercial refrigeration and HVAC company, serving Sanger, TX and the surrounding region.
           </p>
           <ul className="space-y-2 text-base text-gray-700">
             <li>
-              • Over 20 years of experience in refrigeration, freezer, and cooler installations
+              • Over 30 years of experience in refrigeration, freezer, and cooler installations
             </li>
             <li>
               • Licensed, insured, and trusted by local businesses
