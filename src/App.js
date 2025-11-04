@@ -16,7 +16,7 @@ function App() {
         <div className="container mx-auto flex flex-col md:flex-row items-center py-12 px-6 md:justify-between gap-8">
           <div>
             <div className="flex items-center mb-6">
-              <img src="/images/logo.png" alt="SCP Logo" className="h-12 w-auto mr-4" />
+              <img src="/images/SCP-Refrigeration-Logo.png" alt="SCP Logo" className="h-12 w-auto mr-4" />
               <h1 className="text-4xl md:text-5xl font-bold tracking-tight">
                 SCP Refrigeration
             </h1>
@@ -33,8 +33,8 @@ function App() {
             </a>
           </div>
           <img
-            src="/images/Ice-Machines.avif"
-            alt="SCP Refrigeration Crew"
+            src="/images/AC-Contractor.avif"
+            alt="SCP Refrigeration"
             className="rounded-lg shadow-lg w-full max-w-md md:max-w-sm"
           />
         </div>
@@ -64,8 +64,8 @@ function App() {
         </div>
         <div className="md:w-1/2 flex items-center">
           <img
-            src="/images/about-team.jpg"
-            alt="SCP Team"
+            src="/images/517059805_10163655980717915_878489410056435296_n.jpg"
+            alt="SCP Refrigeration"
             className="rounded-2xl shadow-xl w-full"
           />
         </div>
