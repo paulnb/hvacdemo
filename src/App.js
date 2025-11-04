@@ -3,9 +3,9 @@ import React from "react";
 
 // Sample gallery images. Replace src URLs with real image paths as needed.
 const galleryImages = [
-  { src: "/public/images/AC-Contractor.avif", alt: "AC Contractor" },
-  { src: "/public/images/Commercial-Walk-In-Coolers.avif", alt: "Commercial Walk In Cooler" },
-  { src: "/public/images/Heating-and-Air-Conditioning.avif", alt: "Heating and Air Conditioning" },
+  { src: "/images/AC-Contractor.avif", alt: "AC Contractor" },
+  { src: "/images/Commercial-Walk-In-Coolers.avif", alt: "Commercial Walk In Cooler" },
+  { src: "/images/Heating-and-Air-Conditioning.avif", alt: "Heating and Air Conditioning" },
 ];
 
 function App() {
@@ -33,7 +33,7 @@ function App() {
             </a>
           </div>
           <img
-            src="public/images/Ice-Machines.avif"
+            src="/images/Ice-Machines.avif"
             alt="SCP Refrigeration Crew"
             className="rounded-lg shadow-lg w-full max-w-md md:max-w-sm"
           />
