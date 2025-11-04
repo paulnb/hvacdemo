@@ -3,9 +3,9 @@ import React from "react";
 
 // Sample gallery images. Replace src URLs with real image paths as needed.
 const galleryImages = [
-  { src: "/images/project1.jpg", alt: "Cooler Installation" },
-  { src: "/images/project2.jpg", alt: "HVAC Unit" },
-  { src: "/images/project3.jpg", alt: "Commercial Freezer" },
+  { src: "/public/images/AC-Contractor.avif", alt: "AC Contractor" },
+  { src: "/public/images/Commercial-Walk-In-Coolers.avif", alt: "Commercial Walk In Cooler" },
+  { src: "/public/images/Heating-and-Air-Conditioning.avif", alt: "Heating and Air Conditioning" },
 ];
 
 function App() {
@@ -15,8 +15,10 @@ function App() {
       <header className="bg-blue-900 text-white shadow-xl">
         <div className="container mx-auto flex flex-col md:flex-row items-center py-12 px-6 md:justify-between gap-8">
           <div>
-            <h1 className="text-4xl md:text-5xl font-bold tracking-tight mb-4">
-              SCP Refrigeration
+            <div className="flex items-center mb-6">
+              <img src="/images/logo.png" alt="SCP Logo" className="h-12 w-auto mr-4" />
+              <h1 className="text-4xl md:text-5xl font-bold tracking-tight">
+                SCP Refrigeration
             </h1>
             <p className="text-lg md:text-xl font-light mb-6 max-w-lg">
               HVAC & Commercial Cooling Experts in Sanger, TX. Keeping your business cold, comfortable, and running smoothly for over 20 years.
@@ -30,7 +32,7 @@ function App() {
             </a>
           </div>
           <img
-            src="/images/hero-hvac.jpg"
+            src="public/images/Ice-Machines.avif"
             alt="SCP Refrigeration Crew"
             className="rounded-lg shadow-lg w-full max-w-md md:max-w-sm"
           />
