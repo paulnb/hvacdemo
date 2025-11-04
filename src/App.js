@@ -149,7 +149,7 @@ function App() {
               </div>
               <div className="mb-4">
                 <span className="font-semibold">Email:</span>
-                <span className="block">info@scprefrigeration.com</span>
+                <span className="block">SCPRefrigeration@gmail.com</span>
               </div>
               <div>
                 <span className="font-semibold">Hours:</span>
@@ -189,7 +189,7 @@ function App() {
       {/* Footer */}
       <footer className="bg-blue-950 text-white py-4 mt-10">
         <div className="container mx-auto px-6 text-center text-sm">
-          © {new Date().getFullYear()} SCP Refrigeration • Sanger, TX • <a href="mailto:info@scprefrigeration.com" className="text-amber-400 hover:text-amber-600">info@scprefrigeration.com</a>
+          © {new Date().getFullYear()} SCP Refrigeration • Sanger, TX • <a href="mailto:SCPRefrigeration@gmail.com" className="text-amber-400 hover:text-amber-600">SCPRefrigeration@gmail.com</a>
         </div>
       </footer>
     </div>
