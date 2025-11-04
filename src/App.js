@@ -16,7 +16,6 @@ function App() {
         <div className="container mx-auto flex flex-col md:flex-row items-center py-12 px-6 md:justify-between gap-8">
           <div>
             <div className="flex items-center mb-6">
-              <img src="/images/SCP-Refrigeration-Logo.png" alt="SCP Logo" className="h-12 w-auto mr-4" />
               <h1 className="text-4xl md:text-5xl font-bold tracking-tight">
                 SCP Refrigeration
             </h1>
@@ -33,8 +32,8 @@ function App() {
             </a>
           </div>
           <img
-            src="/images/AC-Contractor.avif"
-            alt="SCP Refrigeration"
+            src="/images/SCP-Refrigeration-Logo.png"
+            alt="SCP Refrigeration Logo"
             className="rounded-lg shadow-lg w-full max-w-md md:max-w-sm"
           />
         </div>
